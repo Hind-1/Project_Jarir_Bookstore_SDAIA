@@ -1,0 +1,279 @@
+Company,Product,TypeName,Inches,ScreenResolution,Gpu,Ram,Memory,OpSys,Weight,Price
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+‎هواوي) ميت بوك)‎,‎هواوي) ميت بوك)‎,‎كمبيوتر محمول‎,‎15‎.6‎ بوصة‎,‎كاميرا ويب 1 ميجابيكسل عالية الوضوح‎,‎ انتل يو اتش دي جرافيكس‎,‎8 جيجابايت رام‎,‎256 جيجابايت اس اس دي‎,‎ويندوز 10‎,none,2299ر.س.‏
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,7299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel UHD Graphics,8 GB RAM,256 GB SSD,Windows 10,depth,2299
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,7299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel UHD Graphics,8 GB RAM,256 GB SSD,Windows 10,depth,2299
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,7299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel UHD Graphics,8 GB RAM,256 GB SSD,Windows 10,depth,2299
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,7299
+(Asus) ExpertBook,(Asus) ExpertBook,Laptop,14,HD Webcam,Intel GMA HD,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10 Pro,20.20 cm ( 7.95 in ),7599
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,6299
+(Acer) Swift,(Acer) Swift,Laptop,14,HD 720p Webcam,Intel UHD Graphics 605,4 GB RAM,64 GB (eMMC),Windows 10,none,1499
+(Lenovo) IdeaPad,(Lenovo) IdeaPad,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,none,2299
+(Dell) XPS,(Dell) XPS,Laptop,13.3,3840 X 2160 (UHD),Intel Iris Plus Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,depth,8699
+(Huawei) MateBook,(Huawei) MateBook,Laptop,16,HD (1 MP) Webcam,AMD Radeon Vega 8,16 GB RAM,512 GB NVMe M.2 SSD,Windows 10,depth,4199
+(Dell) XPS,(Dell) XPS,Laptop,15.6,3840 X 2400,NVIDIA GeForce GTX 1650 Ti (4 GB),32 GB RAM,1 TB SSD,Windows 10,height/length,11999
+(Asus) ZenBook,(Asus) ZenBook,Laptop,14,1920 X 1080 (WUXGA),NVIDIA GeForce MX450 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,32.40 cm ( 12.76 in ),7699
+(Acer) Aspire,(Acer) Aspire,Laptop,14,1366 X 768,Intel UHD Graphics 600,64 GB (eMMC),VR Enabled,Windows 10 S,none,1399
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,NVIDIA GeForce MX350 (2 GB),8 GB RAM,1 TB HDD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,3099
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.3100,8999
+(Asus) X,(Asus) X,Laptop,15.6,VGA Webcam,Intel UHD Graphics,4 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,23.50 cm ( 9.25 in ),2149
+(Razer) Blade,(Razer) Blade,Laptop,13.3,HD 720p Webcam,Intel Iris Plus Graphics,16 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,none,6899
+(HP) Notebook,(HP) Notebook,Laptop,15.6,35.80 cm ( 14.09 in ),Intel UHD Graphics,4 GB RAM,256 GB SSD,Windows 10,1.75 kg ( 3.86 lb ),2199
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,12.4,HD 720p Webcam,Intel UHD Graphics,Wi-Fi 6/Bluetooth 5.0,8 GB RAM,Windows 10,none,3299
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1849
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,6199
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,128 GB M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1499
+(Asus) ZenBook Pro,(Asus) ZenBook Pro,Laptop,15.6,3840 X 2160 (UHD),NVIDIA GeForce RTX 3070 (8 GB),32 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,24.92 cm ( 9.81 in ),15499
+(Asus) VivoBook,(Asus) VivoBook,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,21.50 cm ( 8.46 in ),2349
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel UHD Graphics,8 GB RAM,256 GB SSD,Windows 10,depth,2299
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,7299
+(Asus) ExpertBook,(Asus) ExpertBook,Laptop,14,HD Webcam,Intel GMA HD,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10 Pro,20.20 cm ( 7.95 in ),7599
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,6299
+(Acer) Swift,(Acer) Swift,Laptop,14,HD 720p Webcam,Intel UHD Graphics 605,4 GB RAM,64 GB (eMMC),Windows 10,none,1499
+(Lenovo) IdeaPad,(Lenovo) IdeaPad,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,none,2299
+(Dell) XPS,(Dell) XPS,Laptop,13.3,3840 X 2160 (UHD),Intel Iris Plus Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,depth,8699
+(Huawei) MateBook,(Huawei) MateBook,Laptop,16,HD (1 MP) Webcam,AMD Radeon Vega 8,16 GB RAM,512 GB NVMe M.2 SSD,Windows 10,depth,4199
+(Dell) XPS,(Dell) XPS,Laptop,15.6,3840 X 2400,NVIDIA GeForce GTX 1650 Ti (4 GB),32 GB RAM,1 TB SSD,Windows 10,height/length,11999
+(Asus) ZenBook,(Asus) ZenBook,Laptop,14,1920 X 1080 (WUXGA),NVIDIA GeForce MX450 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,32.40 cm ( 12.76 in ),7699
+(Acer) Aspire,(Acer) Aspire,Laptop,14,1366 X 768,Intel UHD Graphics 600,64 GB (eMMC),VR Enabled,Windows 10 S,none,1399
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,NVIDIA GeForce MX350 (2 GB),8 GB RAM,1 TB HDD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,3099
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.3100,8999
+(Asus) X,(Asus) X,Laptop,15.6,VGA Webcam,Intel UHD Graphics,4 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,23.50 cm ( 9.25 in ),2149
+(Razer) Blade,(Razer) Blade,Laptop,13.3,HD 720p Webcam,Intel Iris Plus Graphics,16 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,none,6899
+(HP) Notebook,(HP) Notebook,Laptop,15.6,35.80 cm ( 14.09 in ),Intel UHD Graphics,4 GB RAM,256 GB SSD,Windows 10,1.75 kg ( 3.86 lb ),2199
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,12.4,HD 720p Webcam,Intel UHD Graphics,Wi-Fi 6/Bluetooth 5.0,8 GB RAM,Windows 10,none,3299
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1849
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,6199
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,128 GB M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1499
+(Asus) ZenBook Pro,(Asus) ZenBook Pro,Laptop,15.6,3840 X 2160 (UHD),NVIDIA GeForce RTX 3070 (8 GB),32 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,24.92 cm ( 9.81 in ),15499
+(Asus) VivoBook,(Asus) VivoBook,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,21.50 cm ( 8.46 in ),2349
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel UHD Graphics,8 GB RAM,256 GB SSD,Windows 10,depth,2299
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,7299
+(Asus) ExpertBook,(Asus) ExpertBook,Laptop,14,HD Webcam,Intel GMA HD,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10 Pro,20.20 cm ( 7.95 in ),7599
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,6299
+(Acer) Swift,(Acer) Swift,Laptop,14,HD 720p Webcam,Intel UHD Graphics 605,4 GB RAM,64 GB (eMMC),Windows 10,none,1499
+(Lenovo) IdeaPad,(Lenovo) IdeaPad,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,none,2299
+(Dell) XPS,(Dell) XPS,Laptop,13.3,3840 X 2160 (UHD),Intel Iris Plus Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,depth,8699
+(Huawei) MateBook,(Huawei) MateBook,Laptop,16,HD (1 MP) Webcam,AMD Radeon Vega 8,16 GB RAM,512 GB NVMe M.2 SSD,Windows 10,depth,4199
+(Dell) XPS,(Dell) XPS,Laptop,15.6,3840 X 2400,NVIDIA GeForce GTX 1650 Ti (4 GB),32 GB RAM,1 TB SSD,Windows 10,height/length,11999
+(Asus) ZenBook,(Asus) ZenBook,Laptop,14,1920 X 1080 (WUXGA),NVIDIA GeForce MX450 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,32.40 cm ( 12.76 in ),7699
+(Acer) Aspire,(Acer) Aspire,Laptop,14,1366 X 768,Intel UHD Graphics 600,64 GB (eMMC),VR Enabled,Windows 10 S,none,1399
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,NVIDIA GeForce MX350 (2 GB),8 GB RAM,1 TB HDD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,3099
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.3100,8999
+(Asus) X,(Asus) X,Laptop,15.6,VGA Webcam,Intel UHD Graphics,4 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,23.50 cm ( 9.25 in ),2149
+(Razer) Blade,(Razer) Blade,Laptop,13.3,HD 720p Webcam,Intel Iris Plus Graphics,16 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,none,6899
+(HP) Notebook,(HP) Notebook,Laptop,15.6,35.80 cm ( 14.09 in ),Intel UHD Graphics,4 GB RAM,256 GB SSD,Windows 10,1.75 kg ( 3.86 lb ),2199
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,12.4,HD 720p Webcam,Intel UHD Graphics,Wi-Fi 6/Bluetooth 5.0,8 GB RAM,Windows 10,none,3299
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1849
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,6199
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,128 GB M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1499
+(Asus) ZenBook Pro,(Asus) ZenBook Pro,Laptop,15.6,3840 X 2160 (UHD),NVIDIA GeForce RTX 3070 (8 GB),32 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,24.92 cm ( 9.81 in ),15499
+(Asus) VivoBook,(Asus) VivoBook,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,21.50 cm ( 8.46 in ),2349
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel UHD Graphics,8 GB RAM,256 GB SSD,Windows 10,depth,2299
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,7299
+(Asus) ExpertBook,(Asus) ExpertBook,Laptop,14,HD Webcam,Intel GMA HD,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10 Pro,20.20 cm ( 7.95 in ),7599
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,6299
+(Acer) Swift,(Acer) Swift,Laptop,14,HD 720p Webcam,Intel UHD Graphics 605,4 GB RAM,64 GB (eMMC),Windows 10,none,1499
+(Lenovo) IdeaPad,(Lenovo) IdeaPad,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,none,2299
+(Dell) XPS,(Dell) XPS,Laptop,13.3,3840 X 2160 (UHD),Intel Iris Plus Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,depth,8699
+(Huawei) MateBook,(Huawei) MateBook,Laptop,16,HD (1 MP) Webcam,AMD Radeon Vega 8,16 GB RAM,512 GB NVMe M.2 SSD,Windows 10,depth,4199
+(Dell) XPS,(Dell) XPS,Laptop,15.6,3840 X 2400,NVIDIA GeForce GTX 1650 Ti (4 GB),32 GB RAM,1 TB SSD,Windows 10,height/length,11999
+(Asus) ZenBook,(Asus) ZenBook,Laptop,14,1920 X 1080 (WUXGA),NVIDIA GeForce MX450 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,32.40 cm ( 12.76 in ),7699
+(Acer) Aspire,(Acer) Aspire,Laptop,14,1366 X 768,Intel UHD Graphics 600,64 GB (eMMC),VR Enabled,Windows 10 S,none,1399
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,NVIDIA GeForce MX350 (2 GB),8 GB RAM,1 TB HDD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,3099
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.3100,8999
+(Asus) X,(Asus) X,Laptop,15.6,VGA Webcam,Intel UHD Graphics,4 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,23.50 cm ( 9.25 in ),2149
+(Razer) Blade,(Razer) Blade,Laptop,13.3,HD 720p Webcam,Intel Iris Plus Graphics,16 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,none,6899
+(HP) Notebook,(HP) Notebook,Laptop,15.6,35.80 cm ( 14.09 in ),Intel UHD Graphics,4 GB RAM,256 GB SSD,Windows 10,1.75 kg ( 3.86 lb ),2199
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,12.4,HD 720p Webcam,Intel UHD Graphics,Wi-Fi 6/Bluetooth 5.0,8 GB RAM,Windows 10,none,3299
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1849
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,6199
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,128 GB M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1499
+(Asus) ZenBook Pro,(Asus) ZenBook Pro,Laptop,15.6,3840 X 2160 (UHD),NVIDIA GeForce RTX 3070 (8 GB),32 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,24.92 cm ( 9.81 in ),15499
+(Asus) VivoBook,(Asus) VivoBook,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,21.50 cm ( 8.46 in ),2349
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel UHD Graphics,8 GB RAM,256 GB SSD,Windows 10,depth,2299
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,7299
+(Asus) ExpertBook,(Asus) ExpertBook,Laptop,14,HD Webcam,Intel GMA HD,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10 Pro,20.20 cm ( 7.95 in ),7599
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt),Wi-Fi/Bluetooth,macOS Big Sur,3.1600,6299
+(Acer) Swift,(Acer) Swift,Laptop,14,HD 720p Webcam,Intel UHD Graphics 605,4 GB RAM,64 GB (eMMC),Windows 10,none,1499
+(Lenovo) IdeaPad,(Lenovo) IdeaPad,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,none,2299
+(Dell) XPS,(Dell) XPS,Laptop,13.3,3840 X 2160 (UHD),Intel Iris Plus Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,depth,8699
+(Huawei) MateBook,(Huawei) MateBook,Laptop,16,HD (1 MP) Webcam,AMD Radeon Vega 8,16 GB RAM,512 GB NVMe M.2 SSD,Windows 10,depth,4199
+(Dell) XPS,(Dell) XPS,Laptop,15.6,3840 X 2400,NVIDIA GeForce GTX 1650 Ti (4 GB),32 GB RAM,1 TB SSD,Windows 10,height/length,11999
+(Asus) ZenBook,(Asus) ZenBook,Laptop,14,1920 X 1080 (WUXGA),NVIDIA GeForce MX450 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,32.40 cm ( 12.76 in ),7699
+(Acer) Aspire,(Acer) Aspire,Laptop,14,1366 X 768,Intel UHD Graphics 600,64 GB (eMMC),VR Enabled,Windows 10 S,none,1399
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,NVIDIA GeForce MX350 (2 GB),8 GB RAM,1 TB HDD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,3099
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,3.3100,8999
+(Asus) X,(Asus) X,Laptop,15.6,VGA Webcam,Intel UHD Graphics,4 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,23.50 cm ( 9.25 in ),2149
+(Razer) Blade,(Razer) Blade,Laptop,13.3,HD 720p Webcam,Intel Iris Plus Graphics,16 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,none,6899
+(HP) Notebook,(HP) Notebook,Laptop,15.6,35.80 cm ( 14.09 in ),Intel UHD Graphics,4 GB RAM,256 GB SSD,Windows 10,1.75 kg ( 3.86 lb ),2199
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,12.4,HD 720p Webcam,Intel UHD Graphics,Wi-Fi 6/Bluetooth 5.0,8 GB RAM,Windows 10,none,3299
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1849
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),8-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,6199
+(HP) Notebook,(HP) Notebook,Laptop,15.6,TrueVision HD Webcam,Intel UHD Graphics,4 GB RAM,128 GB M.2 SSD,Windows 10,Lithium Ion (Li-Ion) - 3 Cell,1499
+(Asus) ZenBook Pro,(Asus) ZenBook Pro,Laptop,15.6,3840 X 2160 (UHD),NVIDIA GeForce RTX 3070 (8 GB),32 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,24.92 cm ( 9.81 in ),15499
+(Asus) VivoBook,(Asus) VivoBook,Laptop,14,HD 720p Webcam,Intel UHD Graphics,4 GB RAM,256 GB NVMe M.2 SSD,Windows 10,21.50 cm ( 8.46 in ),2349
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13.9,3000 X 2000,NVIDIA GeForce MX250 (2 GB),16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,13.5,2256 X 1504 (QHD),Intel Iris Plus Graphics,16 GB RAM,256 GB SSD,Windows 10,none,5299
+(Lenovo) YOGA,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Intel Iris Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,none,6839
+(Microsoft) Surface Laptop,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,AMD Radeon Vega 9,16 GB RAM,256 GB SSD,Windows 10,none,5999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel UHD Graphics,8 GB RAM,256 GB SSD,Windows 10,depth,2299
+(Apple) MacBook Pro,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,Intel Iris Plus Graphics 645,Wi-Fi/Bluetooth,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB NVMe M.2 SSD,Windows 10,weight,3399
+(Dell) XPS,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Intel Iris Xe Graphics,16 GB RAM,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+(Dell) Inspiron,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Intel Iris Xe Graphics,8 GB RAM,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+(Dell) XPS,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Intel Iris Xe Graphics,Wi-Fi/Bluetooth,16 GB RAM,Windows 10,depth,6199
+(Huawei) MateBook,(Huawei) MateBook,Laptop,13,2160 x 1440,Intel Iris Xe Graphics,16 GB RAM,512 GB SSD,Windows 10,height/length,4999
+(Huawei) MateBook,(Huawei) MateBook,Laptop,14,HD 720p Webcam,Intel Iris Xe Graphics,8 GB RAM,512 GB SSD,Windows 10,depth,3999
+(HP) Notebook,(HP) Notebook,Laptop,15.6,37.60 cm ( 14.80 in ),Intel UHD Graphics,4 GB RAM,1 TB HDD,Windows 10,1.85 kg ( 4.08 lb ),2249
+(Apple) MacBook Air,(Apple) MacBook Air,Laptop,13.3,Lithium Ion Polymer (Li-Poly),7-core GPU,USB-C (Thunderbolt 3),Wi-Fi/Bluetooth,macOS Big Sur,2.4300,4899
