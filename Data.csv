@@ -1,0 +1,55 @@
+,Company,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price
+0,(Apple) MacBook Pro,Laptop,14.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,1.60 kg ( 3.53 lb ),9499
+1,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),11799
+2,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),11799
+3,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),12749
+4,(Apple) MacBook Pro,Laptop,14.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,1.60 kg ( 3.53 lb ),11799
+5,(Huawei) MateBook,Laptop,13.9,3000 X 2000,Windows 10,16 GB RAM,1 TB PCIe NVMe M.2 SSD,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+6,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Windows 10,16 GB RAM,1 TB PCIe NVMe M.2 SSD,1 TB PCIe NVMe M.2 SSD,Windows 10,,6839
+7,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,Windows 10,16 GB RAM,256 GB SSD,256 GB SSD,Windows 10,,5999
+8,(Apple) MacBook Pro,Laptop,16,"Dolby Atmos, Three Microphones",macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,2.00 kg ( 4.41 lb ),10499
+9,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+10,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+11,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Windows 10,8 GB RAM,256 GB SSD,256 GB SSD,Windows 10,depth,2599
+12,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Windows 10,8 GB RAM,256 GB SSD,256 GB SSD,Windows 10,depth,2299
+13,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+14,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Windows 10,16 GB RAM,1 TB PCIe NVMe M.2 SSD,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+15,(Asus) VivoBook,Laptop,14,VGA Webcam,Windows 10,4 GB RAM,128 GB SSD,128 GB SSD,Windows 10,1.30 kg ( 2.87 lb ),1399
+16,(Dell) Vostro,Laptop,14,0.9 MP Webcam,Windows 10,4 GB RAM,1 TB HDD,1 TB HDD,Windows 10,depth,2299
+17,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Windows 10,8 GB RAM,256 GB PCIe NVMe M.2 SSD,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+18,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Windows 10,8 GB RAM,512 GB PCIe NVMe M.2 SSD,512 GB PCIe NVMe M.2 SSD,Windows 10,depth,4499
+19,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Windows 10,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,Windows 10,depth,6199
+20,(Apple) MacBook Pro,Laptop,14.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,1.60 kg ( 3.53 lb ),9499
+21,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),11799
+22,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),11799
+23,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),12749
+24,(Apple) MacBook Pro,Laptop,14.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,1.60 kg ( 3.53 lb ),11799
+25,(Huawei) MateBook,Laptop,13.9,3000 X 2000,Windows 10,16 GB RAM,1 TB PCIe NVMe M.2 SSD,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+26,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Windows 10,16 GB RAM,1 TB PCIe NVMe M.2 SSD,1 TB PCIe NVMe M.2 SSD,Windows 10,,6839
+27,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,Windows 10,16 GB RAM,256 GB SSD,256 GB SSD,Windows 10,,5999
+28,(Apple) MacBook Pro,Laptop,16,"Dolby Atmos, Three Microphones",macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,2.00 kg ( 4.41 lb ),10499
+29,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+30,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+31,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Windows 10,8 GB RAM,256 GB SSD,256 GB SSD,Windows 10,depth,2599
+32,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Windows 10,8 GB RAM,256 GB SSD,256 GB SSD,Windows 10,depth,2299
+33,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
+34,(Dell) XPS,Laptop,13.4,3840 X 2160 (UHD),Windows 10,16 GB RAM,1 TB PCIe NVMe M.2 SSD,1 TB PCIe NVMe M.2 SSD,Windows 10,width,8799
+35,(Asus) VivoBook,Laptop,14,VGA Webcam,Windows 10,4 GB RAM,128 GB SSD,128 GB SSD,Windows 10,1.30 kg ( 2.87 lb ),1399
+36,(Dell) Vostro,Laptop,14,0.9 MP Webcam,Windows 10,4 GB RAM,1 TB HDD,1 TB HDD,Windows 10,depth,2299
+37,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Windows 10,8 GB RAM,256 GB PCIe NVMe M.2 SSD,256 GB PCIe NVMe M.2 SSD,Windows 10,depth,3599
+38,(Dell) Inspiron,Laptop,13.3,0.9 MP Webcam,Windows 10,8 GB RAM,512 GB PCIe NVMe M.2 SSD,512 GB PCIe NVMe M.2 SSD,Windows 10,depth,4499
+39,(Dell) XPS,Laptop,13.3,Waves MaxxAudio Pro,Windows 10,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,Windows 10,depth,6199
+40,(Apple) MacBook Pro,Laptop,14.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,1.60 kg ( 3.53 lb ),9499
+41,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),11799
+42,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),11799
+43,(Apple) MacBook Pro,Laptop,16.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,2.10 kg ( 4.63 lb ),12749
+44,(Apple) MacBook Pro,Laptop,14.2,Yes,MacOS Monterey,HDMI/USB-C (Thunderbolt 4)/Headphone Jack,Wi-Fi/Bluetooth,Wi-Fi/Bluetooth,MacOS Monterey,1.60 kg ( 3.53 lb ),11799
+45,(Huawei) MateBook,Laptop,13.9,3000 X 2000,Windows 10,16 GB RAM,1 TB PCIe NVMe M.2 SSD,1 TB PCIe NVMe M.2 SSD,Windows 10,height/length,4899
+46,(Lenovo) YOGA,Laptop,14,HD 720p Webcam,Windows 10,16 GB RAM,1 TB PCIe NVMe M.2 SSD,1 TB PCIe NVMe M.2 SSD,Windows 10,,6839
+47,(Microsoft) Surface Laptop,Laptop,15,2496 x 1664,Windows 10,16 GB RAM,256 GB SSD,256 GB SSD,Windows 10,,5999
+48,(Apple) MacBook Pro,Laptop,16,"Dolby Atmos, Three Microphones",macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,2.00 kg ( 4.41 lb ),10499
+49,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8999
+50,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),9999
+51,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Windows 10,8 GB RAM,256 GB SSD,256 GB SSD,Windows 10,depth,2599
+52,(Huawei) MateBook,Laptop,15.6,HD (1 MP) Webcam,Windows 10,8 GB RAM,256 GB SSD,256 GB SSD,Windows 10,depth,2299
+53,(Apple) MacBook Pro,Laptop,13.3,Built-in Mic/Speakers,macOS Catalina,Wi-Fi/Bluetooth,16 GB RAM,16 GB RAM,macOS Catalina,1.40 kg ( 3.09 lb ),8299
