@@ -1,4 +1,4 @@
-## Helps to predict laptop price using regression.
+## Helps to predict laptop price using linear regression.
 
 Linear regression in statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable and one or more independent variables
 
